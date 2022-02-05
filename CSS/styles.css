@@ -1,7 +1,22 @@
+/*******************Tag Selections******************/
+
+
 h1 {
   color: red;
   font-size: 200px;
 }
-img {
-  width: 500px;
+
+img:hover {
+  width: 1000px;
 }
+
+/*******************Class Selections******************/
+
+.bar {
+  width: 300px;
+}
+
+/*******************ID Selections******************/
+ #heading {
+   color: blue;
+ }
